@@ -27,4 +27,10 @@ processResources {
 	}
 }
 
-tasks.withType(Java
+compileJava {
+	options.release = 25
+}
+
+java {
+	withSourcesJar()
+}
