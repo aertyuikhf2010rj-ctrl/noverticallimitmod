@@ -1,5 +1,5 @@
 plugins {
-	id "net.fabricmc.fabric-loom" version "${project.loom_version}"
+	id "net.fabricmc.fabric-loom" version "1.17.+"
 }
 
 version = project.mod_version
@@ -27,10 +27,4 @@ processResources {
 	}
 }
 
-tasks.withType(JavaCompile).configureEach {
-	it.options.release = 25
-}
-
-java {
-	withSourcesJar()
-}
+tasks.withType(Java
