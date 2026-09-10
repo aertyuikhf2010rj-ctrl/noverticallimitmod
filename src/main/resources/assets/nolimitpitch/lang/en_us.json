@@ -1,0 +1,6 @@
+{
+  "key.category.nolimitpitch.main": "No Limit Pitch",
+  "key.nolimitpitch.toggle": "Toggle unlimited vertical look",
+  "message.nolimitpitch.enabled": "Unlimited vertical look: enabled",
+  "message.nolimitpitch.disabled": "Unlimited vertical look: disabled"
+}

@@ -1,0 +1,6 @@
+{
+  "key.category.nolimitpitch.main": "No Limit Pitch",
+  "key.nolimitpitch.toggle": "Ativar/desativar giro vertical livre",
+  "message.nolimitpitch.enabled": "Giro vertical livre: ativado",
+  "message.nolimitpitch.disabled": "Giro vertical livre: desativado"
+}
